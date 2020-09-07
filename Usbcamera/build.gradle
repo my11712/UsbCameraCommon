@@ -49,5 +49,5 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
     implementation dependency.supportLibrary
-    implementation  dependency.serenegiantCommon
+    implementation  'com.github.my11712:serenegiant-common:V4.1.1'
 }
