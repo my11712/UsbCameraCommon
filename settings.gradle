@@ -1,0 +1,2 @@
+include ':Usbcamera'
+rootProject.name = "UsbCamera"
